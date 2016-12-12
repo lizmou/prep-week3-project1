@@ -199,6 +199,7 @@ var sum = parseInt(arrayOfNumStrings[0]) + parseInt(arrayOfNumStrings[1]) + pars
 document.getElementById("q11").innerHTML = sum;
 });
 
+
 // Take digitsvalue and pass into function that does everything else
 
 // 12. You've finally gotten around to counting the change in your piggy bank. 
